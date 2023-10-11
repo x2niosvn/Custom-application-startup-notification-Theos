@@ -29,5 +29,5 @@
 
 # Credits
 - [x2nios](https://github.com/x2niosvn)
-- Huy Nguyen (it's me) [34306](https://github.com/34306)
+- Huy Nguyen [34306](https://github.com/34306)
 
