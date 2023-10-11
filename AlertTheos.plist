@@ -1,0 +1,7 @@
+{
+    Filter =     {
+        Bundles =         (
+            "vn.com.vng.zingalo"
+        );
+    };
+}
